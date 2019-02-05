@@ -1,4 +1,4 @@
-   <img>https://github.com/aakashrstg00/dsc/blob/master/img/logo-challenge.png?raw=true<img>
+   ![GAME OF CODE](https://github.com/aakashrstg00/dsc/blob/master/img/logo-challenge.png?raw=true)
    
     /
     /
